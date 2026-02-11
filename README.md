@@ -1,5 +1,4 @@
 # SimpleRAG Explorer
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://simple-rag-explorer.streamlit.app/)
 
 A lightweight **Retrieval-Augmented Generation (RAG)** system built to provide an LLM with external knowledge. This project demonstrates how to turn a simple text file into a searchable "knowledge base" using vector embeddings and local AI models.
 
